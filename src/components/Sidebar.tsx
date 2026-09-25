@@ -1,4 +1,5 @@
-import { LayoutDashboard, FileText, Calendar, Users, Bell, Settings, ChevronDown, Plus, Zap } from 'lucide-react';
+import { LayoutDashboard, FileText, Calendar, Users, Bell, Settings, ChevronDown, Plus } from 'lucide-react';
+import { FlowDeskWordmark } from './FlowDeskLogo';
 import { useState } from 'react';
 import type { Workspace } from '../types';
 
@@ -27,11 +28,8 @@ export function Sidebar({ workspaces, activeWorkspace, onSelectWorkspace, onNewW
   return (
     <aside className="w-56 flex-shrink-0 border-r border-[var(--border)] bg-[var(--surface)] flex flex-col overflow-hidden">
       {/* Logo */}
-      <div className="h-14 px-4 flex items-center gap-2.5 border-b border-[var(--border)] flex-shrink-0">
-        <div className="w-7 h-7 rounded-lg bg-[var(--accent)] flex items-center justify-center flex-shrink-0">
-          <Zap size={13} className="text-white fill-white" />
-        </div>
-        <span className="display font-semibold text-[var(--ink)] text-base">FlowDesk</span>
+      <div className="h-14 px-4 flex items-center border-b border-[var(--border)] flex-shrink-0">
+        <FlowDeskWordmark markSize={26} />
       </div>
 
       {/* Workspace switcher */}

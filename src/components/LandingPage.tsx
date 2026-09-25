@@ -1,22 +1,28 @@
 import { ConnectKitButton } from 'connectkit';
-import { Zap, ShieldCheck, Calendar, CheckCircle } from 'lucide-react';
+import { ShieldCheck, Calendar, CheckCircle, ArrowRightLeft } from 'lucide-react';
+import { FlowDeskWordmark, FlowDeskMark } from './FlowDeskLogo';
 
 export function LandingPage() {
   return (
     <div className="min-h-dvh" style={{ background: 'var(--bg-gradient)' }}>
       {/* Nav */}
       <nav className="h-14 px-6 lg:px-12 flex items-center justify-between border-b border-[var(--border)]">
-        <div className="flex items-center gap-2">
-          <div className="w-7 h-7 rounded-lg bg-[var(--accent)] flex items-center justify-center">
-            <Zap size={14} className="text-white fill-white" />
-          </div>
-          <span className="display font-semibold text-[var(--ink)] text-base">FlowDesk</span>
-        </div>
+        <FlowDeskWordmark markSize={28} />
         <ConnectKitButton label="Connect wallet" />
       </nav>
 
       {/* Hero */}
       <div className="max-w-2xl mx-auto px-6 pt-20 pb-16 text-center">
+        {/* Big logo mark */}
+        <div className="flex justify-center mb-8">
+          <div
+            className="w-16 h-16 rounded-2xl flex items-center justify-center"
+            style={{ background: 'var(--surface-muted)', border: '1px solid var(--border)', color: 'var(--accent)' }}
+          >
+            <FlowDeskMark size={38} />
+          </div>
+        </div>
+
         <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--surface-muted)] border border-[var(--border)] text-xs font-medium text-[var(--muted)] mb-8">
           <span className="w-1.5 h-1.5 rounded-full bg-[var(--success)]" />
           Live on Arc Testnet
@@ -41,7 +47,7 @@ export function LandingPage() {
           { icon: CheckCircle, title: 'Approval workflows', body: 'Create proposals, get team approval, execute USDC payments with one click.' },
           { icon: Calendar, title: 'Recurring schedules', body: 'Set up weekly, biweekly, or monthly payment schedules for contributors and vendors.' },
           { icon: ShieldCheck, title: 'Vendor allowlist', body: 'Maintain a list of approved addresses with names and categories to catch wrong-address errors.' },
-          { icon: Zap, title: 'Onchain receipts', body: 'Every payment records a verified transaction hash on Arc — the ledger is always rebuildable.' },
+          { icon: ArrowRightLeft, title: 'Onchain receipts', body: 'Every payment records a verified transaction hash on Arc — the ledger is always rebuildable.' },
         ].map(({ icon: Icon, title, body }) => (
           <div key={title} className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5">
             <div className="w-9 h-9 rounded-xl bg-[var(--surface-muted)] flex items-center justify-center mb-3">
