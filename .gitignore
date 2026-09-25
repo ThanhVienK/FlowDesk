@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets — NEVER commit
+.env
+.env.*
+.circle/
+recovery_file*
+
+# Build output
+dist/
+contracts/out/
+contracts/cache/
+
+# Logs & temp
+*.log
+/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bun
+bun.lockb

@@ -1,0 +1,312 @@
+{"level":"log","message":"restart sse, about to listen","timestamp":1790221963506}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790221963506}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790221963793}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790221964509}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790221964510}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790222511519}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790222511520}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790222511813}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790222901527}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790222901528}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790222901879}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790223202524}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790223202525}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790223202782}
+{"level":"error","message":"Error: API error 403\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts?t=1790221621142:19:11)\n    at async load (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/components/ProposalsView.tsx?t=1790222399496:42:20)","timestamp":1790223359957,"stack":"Error: API error 403\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts?t=1790221621142:19:11)\n    at async load (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/components/ProposalsView.tsx?t=1790222399496:42:20)"}
+{"level":"error","message":"(previous line repeated 1× more)","timestamp":1790223503526}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790223503526}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790223503526}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790223503777}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790223804541}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790223804542}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790223804850}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790234043867}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790234043867}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790234044119}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790234265283}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790234563889}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790234563890}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790234564149}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790235096916}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790235096916}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790235097173}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790235397921}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790235397921}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790235398169}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790236438948}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790236438948}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790236439195}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790236739214}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790236739214}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790236739468}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790237039964}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790237039964}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790237040311}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790238194991}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790238194992}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790238195239}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790238496012}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790238496012}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790238526027}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790239896077}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790239927581}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790240320184}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790240398138}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790240697060}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790240697061}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790240697418}
+{"level":"log","message":"[ChromeTransport] chromePort disconnected","timestamp":1790240747683}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1790240998074}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790240998073}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790240998074}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790240998387}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790241299076}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790241299076}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790241299647}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790241600082}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790241600082}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790241600330}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790242154093}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790242154094}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790242154342}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790242155087}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790242155088}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790242155338}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790242455100}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790242455101}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790242455101}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790242455101}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790242455349}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790242455349}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790242756104}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790242756105}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790242756354}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790242903107}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790242903107}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790242903359}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790243057107}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790243057107}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790243057363}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790243358111}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790243358111}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790243358360}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790243571122}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790243571123}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790243571375}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790243658124}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790243658124}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790243658486}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790243872129}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790243872130}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790243872387}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790244173140}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790244173140}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790244173391}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790244474140}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790244474140}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790244474391}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790244775143}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790244775144}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790244775412}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790245076153}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790245076153}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790245076407}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790245397169}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790245397169}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790245397433}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790245757167}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790245757167}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790245757437}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790246117175}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790246117175}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790246117532}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790246477187}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790246477187}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790246477532}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790246837192}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790246837192}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790246837448}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790247197205}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790247197205}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790247197451}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790247557206}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790247557207}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790247557591}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790247917216}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790247917216}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790247917571}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790248277227}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790248277227}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790248277475}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790248637241}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790248637241}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790248637592}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790248997240}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790248997240}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790248997595}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790249357246}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790249357247}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790249357499}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790249717256}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790249717257}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790249717515}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790250077260}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790250077260}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790250077568}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790250437271}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790250437272}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790250437626}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790250797280}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790250797280}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790250797629}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790251157298}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790251157299}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790251157554}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790251517301}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790251517302}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790251517663}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790251877304}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790251877305}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790251877555}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790252237310}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790252237311}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790252237560}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790252597315}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790252597315}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790252597566}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790252957345}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790252957345}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790252957591}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790253317346}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790253317346}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790253317712}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790253677341}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790253677341}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790253677690}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790254037345}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790254037345}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790254037607}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790254397367}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790254397368}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790254397730}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790254757369}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790254757369}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790254757714}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790255117379}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790255117379}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790255117775}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790255477380}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790255477380}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790255477641}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790255837384}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790255837384}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790255837638}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790256197392}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790256197392}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790256197735}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790256557404}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790256557404}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790256558013}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790256917405}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790256917405}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790256917756}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790257277414}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790257277414}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790257277766}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790257637422}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790257637423}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790257637786}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790257997436}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790257997436}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790257997795}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790258357441}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790258357441}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790258357792}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790258717456}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790258717456}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790258717712}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790259077456}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790259077457}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790259077704}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790259437462}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790259437463}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790259437811}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790259797480}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790259797480}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790259797826}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790260157494}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790260157494}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790260157743}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790260517488}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790260517488}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790260517730}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790260877498}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790260877498}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790260877745}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790261237501}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790261237501}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790261237752}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790261597512}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790261597512}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790261597871}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790261957524}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790261957525}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790261957782}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790262317527}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790262317528}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790262317779}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790262677545}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790262677545}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790262677794}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790263037540}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790263037541}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790263037792}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790263397558}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790263397559}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790263399431}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790263757552}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790263757552}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790263757904}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790264418150}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790264466033}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790264614723}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790264616732}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790264912606}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790264912607}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790264912607}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790264912607}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790264912950}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790264912951}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790264914921}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790264914922}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790264915166}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790264988879}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790265101194}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790266067077}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790266067077}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790266067362}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790266367090}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790266367090}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790266367345}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790266667102}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790266667102}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790266667358}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790299121938}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790299161348}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790299278108}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790299576434}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790299576434}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790299576797}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790299921437}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790299921438}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790299921705}
+{"level":"error","message":"Failed to load summary: TypeError: Failed to fetch\n    at globalThis.fetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/tracing.ts:194:55)\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts:11:21)\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:36:26\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:55:12\n    at commitHookEffectListMount (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:23841:34)\n    at commitPassiveMountOnFiber (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25084:19)\n    at commitPassiveMountEffects_complete (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25057:17)\n    at commitPassiveMountEffects_begin (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25047:15)\n    at commitPassiveMountEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25037:11)\n    at flushPassiveEffectsImpl (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26421:11)","timestamp":1790300093483,"stack":"TypeError: Failed to fetch\n    at globalThis.fetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/tracing.ts:194:55)\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts:11:21)\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:36:26\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:55:12\n    at commitHookEffectListMount (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:23841:34)\n    at commitPassiveMountOnFiber (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25084:19)\n    at commitPassiveMountEffects_complete (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25057:17)\n    at commitPassiveMountEffects_begin (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25047:15)\n    at commitPassiveMountEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25037:11)\n    at flushPassiveEffectsImpl (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26421:11)"}
+{"level":"error","message":"TypeError: Failed to fetch\n    at globalThis.fetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/tracing.ts:194:55)\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts:11:21)\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/App.tsx:69:9\n    at commitHookEffectListMount (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:23841:34)\n    at commitPassiveMountOnFiber (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25084:19)\n    at commitPassiveMountEffects_complete (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25057:17)\n    at commitPassiveMountEffects_begin (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25047:15)\n    at commitPassiveMountEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25037:11)\n    at flushPassiveEffectsImpl (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26421:11)\n    at flushPassiveEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26378:22)","timestamp":1790300093484,"stack":"TypeError: Failed to fetch\n    at globalThis.fetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/tracing.ts:194:55)\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts:11:21)\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/App.tsx:69:9\n    at commitHookEffectListMount (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:23841:34)\n    at commitPassiveMountOnFiber (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25084:19)\n    at commitPassiveMountEffects_complete (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25057:17)\n    at commitPassiveMountEffects_begin (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25047:15)\n    at commitPassiveMountEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25037:11)\n    at flushPassiveEffectsImpl (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26421:11)\n    at flushPassiveEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26378:22)"}
+{"level":"error","message":"Failed to load workspaces: TypeError: Failed to fetch\n    at globalThis.fetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/tracing.ts:194:55)\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts:11:21)\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:22:26\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:46:12\n    at commitHookEffectListMount (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:23841:34)\n    at commitPassiveMountOnFiber (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25084:19)\n    at commitPassiveMountEffects_complete (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25057:17)\n    at commitPassiveMountEffects_begin (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25047:15)\n    at commitPassiveMountEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25037:11)\n    at flushPassiveEffectsImpl (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26421:11)","timestamp":1790300222188,"stack":"TypeError: Failed to fetch\n    at globalThis.fetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/tracing.ts:194:55)\n    at apiFetch (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/utils.ts:11:21)\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:22:26\n    at https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/src/hooks/useWorkspace.ts:46:12\n    at commitHookEffectListMount (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:23841:34)\n    at commitPassiveMountOnFiber (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25084:19)\n    at commitPassiveMountEffects_complete (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25057:17)\n    at commitPassiveMountEffects_begin (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25047:15)\n    at commitPassiveMountEffects (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:25037:11)\n    at flushPassiveEffectsImpl (https://iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=a749e3e8:26421:11)"}
+{"level":"log","message":"restart sse, about to listen","timestamp":1790300524449}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=42c8960af6b58507713058950848d8b6e0bd97811ed08130d6789dae04c4675a&user_info=","timestamp":1790300524449}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1790300524814}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790306761330}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790307651324}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790319203522}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) iw0hyroy6kv1fu8jed7x1.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1790323569631}
